@@ -1,6 +1,6 @@
 # Demo Streamlit — Riesgo de Crédito (Probabilidad de Impago)
 
-Esta app entrena un modelo de ML (regresión logística) con datos sintéticos de crédito y permite **calcular la probabilidad de impago** de un solicitante.
+Esta app permite calcular la probabilidad de impago de un solicitante.
 
 ## Ejecutar en local
 ```bash
